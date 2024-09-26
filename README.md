@@ -1,4 +1,4 @@
-This is the CSC148 - Introduction to Computer Science.
+
 
 Group member: Chuanrun Zhang, Qing Lyu
 
